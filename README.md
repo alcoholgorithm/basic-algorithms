@@ -9,7 +9,7 @@ Feel free to fork the entire repo and run the scripts with the instructions in t
 ## Contributing
 Feel free to submit pull requests of simpler/cleaner re-implemetations or implementations in different languages; I'll consult relevant experts as I review them. 
  - to keep new learners from getting confused, *Please ensure the sematics of your implementation match those of the existing ones*.
- - please use your language's *standard linter* before sending a PR to show new learners what clean code and idiomatic looks like
+ - please use your language's *standard linter* before sending a PR to show new learners what clean and idiomatic code looks like
  - throw in helpful comments explaining sematics, as I have done in the existing code
  - the goal of this repo is to make algorithms lessons more accessible, feel free to modify my explainer comments or re-use them, whatever makes your step-by-step  explanations more concise
 
