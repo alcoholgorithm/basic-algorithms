@@ -6,4 +6,4 @@ Reference code for the algorithms you see on my tiktok videos, written by me, if
 ## How to use this repo
 Feel free to fork the entire repo and run the scripts with the instructions in the code docs. 
 
-[^footnote]: Made with :heart: in NYC
+<sup> Made with :heart: in NYC. </sup>
